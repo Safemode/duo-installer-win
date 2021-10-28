@@ -1,0 +1,14 @@
+*.TempPoint.*
+*.Export.*
+*.psprojs
+*.RestorePoint.*
+*.Run.ps1
+*.Package.ps1
+CustomMenu.inf
+internal/
+bin/
+*.psbuild
+.gitsecret/keys/random_seed
+!*.secret
+duokeys.ps1
+*.pss.bak
